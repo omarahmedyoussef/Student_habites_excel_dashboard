@@ -19,7 +19,7 @@ An interactive Excel dashboard that explores patterns in student behavior across
 - Parental education level influences the likelihood of students working.
 
 ## 📷 Screenshot
-![Dashboard Preview](1st project excel.PNG)
+![Dashboard Preview](1st_project_excel.PNG)
 
 ## 🙌 Feedback?
 Feel free to open an issue or reach out with suggestions!
